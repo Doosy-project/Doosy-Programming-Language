@@ -37,3 +37,5 @@ def setup():
     print('newfile')
     print('user ID ' + random.randint(11111111, 99999999))
     print('program:')
+
+setup()
