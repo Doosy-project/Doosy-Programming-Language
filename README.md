@@ -1,2 +1,2 @@
-# Doosy-Programming-Language
-The repository for the Doosy programing language
+# Doosy Programming Language
+## The Doosy Programming language
