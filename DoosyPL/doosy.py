@@ -32,10 +32,14 @@ def howto():
     print('copylist() copys the list to a new one  -newlist-')
     print('comment("comment") makes a comment, not run by the code')
     print('howto() writes this!')
+    print('importpypto() imports the pypto module, used for making cryptocurrency related things')
 def setup():
     print('DOOSY PROGRAMMING LANGUAGE VERSION 0.0.1')
     print('newfile')
     print('user ID ' + random.randint(11111111, 99999999))
+    print('type howto() to learn how to use Doosy')
     print('program:')
 
 setup()
+def importpypto():
+    import pyptomodules
