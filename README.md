@@ -1,2 +1,2 @@
-# ![Image of Yaktocat](https://1.bp.blogspot.com/-4h55CLyCwVw/YAtDI5QTwVI/AAAAAAAABKw/SXR9oAq-QqclmZYSuEBqggCD6Bui1cdeACLcBGAsYHQ/s747/Screen%2BShot%2B2021-01-22%2Bat%2B2.25.09%2BPM.png)
+# ![gif](https://1.bp.blogspot.com/-PlYMTiEjBjE/YAzBcV_yvKI/AAAAAAAABLc/LLG9k0aTZqAMjVUZVA3jR5m3ffc5iPDCwCLcBGAsYHQ/s1120/repo%2Bcard.gif)
 ## The Doosy Programming language
