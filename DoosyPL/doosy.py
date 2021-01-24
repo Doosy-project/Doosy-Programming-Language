@@ -33,6 +33,7 @@ def howto():
     print('comment("comment") makes a comment, not run by the code')
     print('howto() writes this!')
     print('importpypto() imports the pypto module, used for making cryptocurrency related things')
+    print('importenterprise() imports the enterprise module, used for enterprise related things')
 def setup():
     print('DOOSY PROGRAMMING LANGUAGE VERSION 0.0.1')
     print('newfile')
@@ -43,3 +44,5 @@ def setup():
 setup()
 def importpypto():
     import pyptomodules
+def importenterprise():
+    import enterprise
