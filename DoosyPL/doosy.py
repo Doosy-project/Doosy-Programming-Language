@@ -46,3 +46,5 @@ def importpypto():
     import pyptomodules
 def importenterprise():
     import enterprise
+def importhydra():
+    import hydra
