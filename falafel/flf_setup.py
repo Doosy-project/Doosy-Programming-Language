@@ -1,0 +1,27 @@
+# fallafel
+
+import time
+print('++-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-++')
+time.sleep(0.7)
+print('-------------------------------------FALAFEL-----------------------------------------')
+time.sleep(0.7)
+print('>                               VERSION: 2020.1.1                                    ')
+time.sleep(0.7)
+print('>                                    NEW DISH                                        ')
+time.sleep(0.7)
+print('>                                                                  ')
+time.sleep(0.7)
+print('>                                 Name your dish:                                    ')
+proname = input()
+time.sleep(0.7)
+print('>            NEW DISH CALLED ' + proname)
+time.sleep(0.7)
+print('>                                  LOADING...                                        ')
+time.sleep(0.7)
+print('>                                     __')
+print('>                                    (  )                                            ')
+print('>                                     --                                             ')
+print('>____________________________________________________________________________________')
+print('>                                    done                                            ')
+print('> Filename is ' + proname)
+import flf_editor
