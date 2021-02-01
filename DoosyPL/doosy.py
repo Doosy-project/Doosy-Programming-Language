@@ -34,6 +34,8 @@ def howto():
     print('howto() writes this!')
     print('importpypto() imports the pypto module, used for making cryptocurrency related things')
     print('importenterprise() imports the enterprise module, used for enterprise related things')
+    print('importhydra() imports the hydra module')
+    print('importfalafel() imports the falafel module')
 def setup():
     print('DOOSY PROGRAMMING LANGUAGE VERSION 0.0.1')
     print('newfile')
@@ -48,3 +50,7 @@ def importenterprise():
     import enterprise
 def importhydra():
     import hydra
+def importcalcium():
+    import calcium
+def importfalafel():
+    import falafel
